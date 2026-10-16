@@ -49,9 +49,9 @@ Explanation: The subarray [5,4,-1,7,8] has the largest sum 23.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 0 ms  
-**Memory:** 19.3 MB  
-**Submitted:** 2026-10-16T17:39:17.728Z  
+**Runtime:** 34 ms (beats 65.38%)  
+**Memory:** 31.6 MB (beats 21.81%)  
+**Submitted:** 2026-10-16T17:39:25.769Z  
 
 ```py
 class Solution:
