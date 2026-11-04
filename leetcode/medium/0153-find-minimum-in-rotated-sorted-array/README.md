@@ -58,8 +58,8 @@ Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 
 **Language:** Python  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 19.4 MB (beats 22.61%)  
-**Submitted:** 2026-11-04T11:09:13.749Z  
+**Memory:** 19.2 MB (beats 96.10%)  
+**Submitted:** 2026-11-04T11:13:41.508Z  
 
 ```py
 class Solution:
