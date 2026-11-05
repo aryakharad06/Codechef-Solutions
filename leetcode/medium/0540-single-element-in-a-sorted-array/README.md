@@ -39,8 +39,8 @@ Output: 10
 
 **Language:** Python  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 27.1 MB (beats 18.68%)  
-**Submitted:** 2026-11-05T11:31:15.046Z  
+**Memory:** 27.2 MB (beats 18.68%)  
+**Submitted:** 2026-11-05T11:33:31.655Z  
 
 ```py
 
